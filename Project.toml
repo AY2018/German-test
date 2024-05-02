@@ -1,0 +1,16 @@
+name = "GermanCredits"
+imgname = "credits"
+version = "0.0.4"
+
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+GenieFramework = "a59fdf5c-6bf0-4f5d-949c-a137c9e2f353"
+OrderedCollections = "bac558e1-5e72-5ebc-8fee-abe8a469f55d"
+
+[compat]
+CSV = "0.10"
+DataFrames = "1.5"
+GenieFramework = "1.26.11"
+OrderedCollections = "1.6"
+julia = "1.6"
